@@ -2,11 +2,11 @@
 layout: default
 ---
 
-Welcome! This is a beginner-friendly page devoted to walking you through making your very own Pull Request. We assume you have some clue what a Pull Request is or what it's used for, or else you wouldn't have found this page. Still, let's review a bit.
+Welcome! This is a beginner-friendly page devoted to **walking you through making your very own Pull Request**. We assume you have some clue what a Pull Request is or what it's used for, or else you wouldn't have found this page. Still, let's review a bit.
 
 Pull Requests are a way to submit changes to (code) repositories. Repositories are collectons of files hosted on sites like [GitHub](https://github.com), most often associated with software development. Software developers use repositories and Pull Requests to track changes to code bases over time.
 
-In this tutorial, we'll walk through creating a Pull Request against the followng code repository: [https://makeapullrequest.github.io/](https://makeapullrequest.github.io/)
+In this tutorial, we'll walk through creating a Pull Request against the followng code repository: [https://github.com/MakeAPullRequest/makeapullrequest.github.io](https://github.com/MakeAPullRequest/makeapullrequest.github.io)
 
 By the time you're finished, you'll have submitted a real change to a real codebase and be able to see your username listed among [others getting started](/contributors).
 
