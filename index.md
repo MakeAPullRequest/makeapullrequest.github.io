@@ -44,17 +44,26 @@ It's finally time to create our request to have our changes pulled into the orig
 
 Select the **Pull requests** tab, then **New pull request**
 
-[IMAGE HERE]
+<a href="/assets/images/tutorial/MakePullRequest.gif" target="_blank"><img src="/assets/images/tutorial/MakePullRequest.gif" alt="Modify the file"></a>
 
 GitHub will automatically understand that you want to introduce the changes in your forked repository into the original repository. It will show you on the **Comparing changes** page exactly what the difference is between the original repository and your fork (this set of changes is called a "diff").
 
-[IMAGE HERE]
+<a href="/assets/images/tutorial/Diff.png" target="_blank"><img src="/assets/images/tutorial/Diff.png" alt="Modify the file"></a>
 
-To finish off creating the Pull Request, fill out the form entitled **Open a pull request** - add a title for your Pull Request and an optional description. Lastly, select **Create pull request**
+To finish off creating the Pull Request, select **Create pull request** then fill out the form entitled **Open a pull request**. You'll need to add a title and optoinal description to explain the changes you're making. Lastly, select **Create pull request**
 
-[IMAGE HERE]
+<a href="/assets/images/tutorial/MakePullRequest.gif" target="_blank"><img src="/assets/images/tutorial/MakePullRequest.gif" alt="Modify the file"></a>
 
 # Step 5: Await your Pull Request being merged
 
+You did it! What happens next is in control of the maintainers of the original repository. They now have the ability to see exactly what changes you'd like to make to their repository - and, if they're satisfied, they will *merge* your work.
+
+If you've been following this tutorial, once your Pull Request is merged you'll see your name appear on this page: [{{ site.url }}/contributors](/contributors)
+
+Congrats!
+
+# Further Reading
+
+* [A Survivor's Guide to Git](https://www.prolificinteractive.com/2018/12/05/a-survivors-guide-to-git/) - A beginner-friendly tutorial for understanding how to start using Git
 
 
