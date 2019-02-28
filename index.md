@@ -12,8 +12,10 @@ The first step in your journey to making a Pull Request against an existing repo
 
 To start forking a repository, head to its webpage and select the **Fork** button.
 
-[IMAGE HERE]
-
 If you are a part of any Organizations, you will be prompted to pick where to Fork the repository to - either an Organization or your own personal account. For this tutorial, select your own account.
 
-[IMAGE HERE]
+<a href="/assets/images/tutorial/Fork.gif" target="_blank"><img src="/assets/images/tutorial/Fork.gif" alt="Fork the repository"></a>
+
+# Step 2: Clone the forked repository locally
+
+Next, we'll 
