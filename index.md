@@ -30,15 +30,15 @@ Locate the Edit icon (a pencil) and select it. You'll now be able to modify that
 
 <a href="/assets/images/tutorial/ModifyFile.gif" target="_blank"><img src="/assets/images/tutorial/ModifyFile.gif" alt="Modify the file"></a>
 
-Step 3: Commit the changes to the forked repository
+# Step 3: Commit the changes to the forked repository
 
 After your modifications are complete, you need to save them. Scroll down to the area entitled **Commit changes**
 
 There, add a short message describing your changes (e.g. "Added username") and select **Commit changes**
 
-[IMAGE HERE] 
+<a href="/assets/images/tutorial/CommitChanges.gif" target="_blank"><img src="/assets/images/tutorial/CommitChanges.gif" alt="Modify the file"></a>
 
-Step 4: Create a Pull Request!
+# Step 4: Create a Pull Request!
 
 It's finally time to create our request to have our changes pulled into the original repository.
 
@@ -54,7 +54,7 @@ To finish off creating the Pull Request, fill out the form entitled **Open a pul
 
 [IMAGE HERE]
 
-Step 5: Await your Pull Request being merged
+# Step 5: Await your Pull Request being merged
 
 
 
