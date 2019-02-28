@@ -8,7 +8,7 @@ Pull Requests are a way to submit changes to (code) repositories. Repositories a
 
 In this tutorial, we'll walk through creating a Pull Request against the followng code repository: [https://makeapullrequest.github.io/](https://makeapullrequest.github.io/)
 
-By the time you're finished, you'll have submitted a real change to a real codebase and be able to see your username listed among others getting started.
+By the time you're finished, you'll have submitted a real change to a real codebase and be able to see your username listed among [others getting started](/contributors).
 
 The use case we're walking through is submitting code to an exisiting repository - this is exactly what you might do to contribute to an [Open Source](https://github.com/open-source) project.
 
